@@ -1,4 +1,4 @@
-# MapleGlobal (WvsBeta_REVAMP)
+# SSOGlobal (WvsBeta_REVAMP)
 
 This is it. The last version before closing down.
 
